@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-I’m a software developer with a strong focus on **Python and Web Development**. I enjoy building practical, efficient, and scalable solutions — from backend systems and automation tools to full-stack web applications. I’m constantly learning and improving my skills through real projects and hands-on experience.
+I’m a software developer with a strong focus on **Python and Web Development**. I enjoy building practical, efficient, and scalable solutions  from backend systems and automation tools to full-stack web applications. I’m constantly learning and improving my skills through real projects and hands-on experience.
 
 ---
 
