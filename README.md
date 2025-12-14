@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello World, I'm Cedric John Lim</h1>
-<h3 align="center">Python Developer | Web Developer | IT Professional</h3>
+<h3 align="center">Python Developer | Web Developer | Full-Stack Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=seaji06&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -9,17 +9,18 @@
 
 ### 🚀 About Me
 
-I’m a software developer with a strong focus on **Python and Web Development**. I enjoy building practical, efficient, and scalable solutions  from backend systems and automation tools to full-stack web applications. I’m constantly learning and improving my skills through real projects and hands-on experience.
+I’m a software developer focused on **Python and modern web development**. I build backend systems, automation tools, and full-stack applications using current technologies like **React, Vite, and Next.js**. I enjoy turning ideas into reliable, scalable software.
 
 ---
 
 ### 💻 What I Do
 
-- 🐍 Build backend systems and automation tools using Python  
-- 🌐 Develop full-stack web applications  
-- 🤖 Create automation and web scraping solutions  
-- 🎨 Design user-friendly interfaces and dashboards  
-- 📊 Work with data, APIs, and system integrations  
+- 🐍 Backend development and automation with Python  
+- 🌐 Full-stack web development (REST APIs & UI)  
+- ⚡ Build modern frontend apps with React, Vite, and Next.js  
+- 🤖 Web scraping and browser automation  
+- 🎨 Create clean, user-friendly interfaces  
+- 📊 API integrations and data processing  
 
 ---
 
@@ -35,32 +36,33 @@ I’m a software developer with a strong focus on **Python and Web Development**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### ⚙️ Frameworks & Tools
+#### ⚙️ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+#### 🧩 Backend & Tools
 - **Django** – Backend & Web Applications  
 - **Laravel** – Web Development  
-- **React / Vite** – Frontend Development  
-- **Selenium** – Web Automation & Scraping  
-- **Tkinter / PyQt** – Desktop GUI Applications  
 - **Supabase** – Backend as a Service  
 - **Stripe** – Payment Integration  
+- **Selenium** – Automation & Web Scraping  
+- **Tkinter / PyQt** – Desktop Applications  
 
 #### 🎯 Specializations
 - 🤖 **Automation**
   - Web scraping
-  - Browser automation
-  - Task scheduling
-- 🌐 **Web Development**
+  - Task automation
+- 🌐 **Full-Stack Web Development**
   - REST APIs
-  - Authentication systems
-  - Payment systems
+  - Authentication & roles
+  - Payments & subscriptions
 - 🎵 **Audio & Media Processing**
-  - Audio recording and playback
+  - Recording & playback
   - Silence detection
-  - Feature extraction
 - 📊 **Data Handling**
+  - API integrations
   - Data processing
-  - API integration
-  - Reporting and insights
 
 </details>
 
@@ -68,10 +70,10 @@ I’m a software developer with a strong focus on **Python and Web Development**
 
 ### 🎯 Core Skills
 
-- Problem Solving  
-- Backend & Full-Stack Development  
+- Full-Stack Development  
+- Backend Architecture  
 - Automation & Scripting  
-- Clean and Maintainable Code  
+- Clean Code & Debugging  
 - Continuous Learning  
 
 ---
@@ -95,5 +97,5 @@ I’m a software developer with a strong focus on **Python and Web Development**
 ---
 
 <p align="center">
-  Building useful software, one project at a time 🚀
+  Building practical software with modern tools 🚀
 </p>
